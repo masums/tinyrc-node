@@ -1,0 +1,37 @@
+{
+  "name": "tinyrc-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "tinyRC Node.js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iffyloop/tinyrc-node.git"
+  },
+  "keywords": [
+    "es6",
+    "javascript",
+    "nodejs",
+    "remote",
+    "screensharing",
+    "signaling",
+    "webrtc",
+    "websockets"
+  ],
+  "author": "iffyloop",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/iffyloop/tinyrc-node/issues"
+  },
+  "homepage": "https://github.com/iffyloop/tinyrc-node#readme",
+  "dependencies": {
+    "shortid": "^2.2.8",
+    "ws": "^4.0.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
