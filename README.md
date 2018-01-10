@@ -39,4 +39,4 @@ You should enable secure WebSockets with Let's Encrypt if you plan on using this
 
 ## License
 
-This project is Unlicensed - see [LICENSE.md](LICENSE) for details.
+This project is Unlicensed - see [LICENSE](LICENSE) for details.
