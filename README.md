@@ -1,7 +1,7 @@
 # tinyRC
 
 tinyRC is a cross-platform screensharing and remote desktop tool, with an emphasis on remotely playing desktop games and emulators on a mobile device.
-This repo hosts the server-side code for the project. For the desktop client, see the [https://github.com/iffyloop/tinyrc-electron](tinyrc-electron) repo, and for the mobile client, visit the [https://github.com/iffyloop/tinyrcapp](tinyrcapp) repo.
+This repo hosts the signaling server for the project. For the desktop client, see the [tinyrc-electron](https://github.com/iffyloop/tinyrc-electron) repo, and for the mobile client, visit the [tinyrcapp](https://github.com/iffyloop/tinyrcapp) repo.
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ node .
 
 ## Coding style
 
-This project adheres to [https://standardjs.com/](JS Standard Style).
+This project adheres to [JS Standard Style](https://standardjs.com).
 
 ## Deployment
 
